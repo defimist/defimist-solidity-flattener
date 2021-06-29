@@ -1,5 +1,5 @@
 {
-  "name": "defimist-solidity-flattener",
+  "name": "solidity-flattener",
   "version": "3.0.6",
   "description": "Combine solidity files to one flat file",
   "scripts": {
