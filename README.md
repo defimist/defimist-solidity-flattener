@@ -2,7 +2,7 @@
 
 ### Installation from npm
 
-`npm i defimist-solidity-flattener`
+`npm install -g https://github.com/defimist/defimist-solidity-flattener`
 
 ### Usage
 
